@@ -57,6 +57,7 @@ jobs:
     -
       node_js: 'lts/*'
       os: windows
+      script: 'node test/test.js'
 
     # Docs
     -
