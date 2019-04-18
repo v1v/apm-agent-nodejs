@@ -116,7 +116,7 @@
     "express": "^4.16.4",
     "express-graphql": "^0.8.0",
     "express-queue": "^0.0.12",
-    "fastify": "^2.0.1",
+    "fastify": "^2.3.0",
     "finalhandler": "^1.1.1",
     "generic-pool": "^3.4.2",
     "get-port": "^4.0.0",
