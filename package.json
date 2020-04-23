@@ -141,7 +141,7 @@
     "handlebars": "^4.7.3",
     "hapi": "^18.1.0",
     "https-pem": "^2.0.0",
-    "inquirer": "^0.12.0",
+    "inquirer": "^7.1.0",
     "ioredis": "^4.16.0",
     "is-my-json-valid": "^2.20.0",
     "jade": "^1.11.0",
